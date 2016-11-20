@@ -5,4 +5,4 @@ Repository for meetings notes, todo issues etc.
 Follow [this](https://github.com/webvr-india/activities/blob/master/getting-started.md) guide to get started.
 
 # Meetings
-  * **November Call** - [link](https://github.com/webvr-india/activities/blob/master/meetings/november_call.md)
+  * [**November Call**](https://github.com/webvr-india/activities/blob/master/meetings/november_call.md)
