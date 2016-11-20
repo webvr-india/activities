@@ -6,3 +6,6 @@ Follow [this](https://github.com/webvr-india/activities/blob/master/getting-star
 
 # Meetings
   * [**November Call**](https://github.com/webvr-india/activities/blob/master/meetings/november_call.md)
+  * **September Call**
+    * [**September Monthly Call**](https://github.com/webvr-india/activities/blob/master/meetings/september_call.md)
+    * [**September Mid-Monthly Call**](https://github.com/webvr-india/activities/blob/master/meetings/september_mid-monthly_call.md)
