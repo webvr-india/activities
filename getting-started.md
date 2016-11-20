@@ -39,8 +39,8 @@ Try out this basic scene made using the A-Frame VR. Simply copy the following co
 ## Have you contributed (blog,events and media footprint) to the A-Frame VR/ WebVR? Report it on our Github [issue](https://github.com/webvr-india/volunteer-contributions/issues)
    How to report your contributions?
    1. Visit volunteer contributions [issue](https://github.com/webvr-india/volunteer-contributions/issues)
-   2. Find issue labeled projects ( Projects/Scenes )
-   3. Click on the issue and report your work in the comment ( Don't forget to follow the format specified there )
+   2. Find the relevant issue label ( Projects/Scenes/Media )
+   3. Open up the issue and report your work in the comment ( Please follow the format specified there )
 
 ## Important links
   * [WebVR India - Github Organisation](https://github.com/webvr-india)
