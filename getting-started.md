@@ -1,5 +1,5 @@
 ## Getting Started
-Copy the following code and make a file(index.html).Simply open it in your favorite browser (our's is firefox) to experience the virtual reality.
+Try out this basic scene made using the A-Frame VR. Simply copy the following code into a file and name it index.html. Next, save it and open it in your favorite browser (ours is Firefox) to experience the Virtual Reality right there on the web.
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -21,7 +21,7 @@ Copy the following code and make a file(index.html).Simply open it in your favor
 ```
 ## Learning A-frame
 1. [Introduction](https://aframe.io/docs/0.3.0/introduction/)
-2. [What is scene ?](https://aframe.io/docs/0.3.0/core/scene.html)
+2. [What is a scene ?](https://aframe.io/docs/0.3.0/core/scene.html)
 3. Components ( basic one's to understand )
   1. [position](https://aframe.io/docs/0.3.0/components/position.html)
   2. [rotation](https://aframe.io/docs/0.3.0/components/rotation.html)
@@ -36,8 +36,8 @@ Copy the following code and make a file(index.html).Simply open it in your favor
   5. [more...](https://aframe.io/docs/0.3.0/primitives)
 6. [Animations](https://aframe.io/docs/0.3.0/core/animations.html)
 
-## Created any scenes ? Report it on our Github [issue](https://github.com/webvr-india/volunteer-contributions/issues)
-   Let me help you in reporting.
+## Have you contributed (blog,events and media footprint) to the A-Frame VR/ WebVR? Report it on our Github [issue](https://github.com/webvr-india/volunteer-contributions/issues)
+   How to report your contributions?
    1. Visit volunteer contributions [issue](https://github.com/webvr-india/volunteer-contributions/issues)
    2. Find issue labeled projects ( Projects/Scenes )
    3. Click on the issue and report your work in the comment ( Don't forget to follow the format specified there )
@@ -45,12 +45,12 @@ Copy the following code and make a file(index.html).Simply open it in your favor
 ## Important links
   * [WebVR India - Github Organisation](https://github.com/webvr-india)
   * [WebVR India - Telegram Channel](https://telegram.me/WebVRIndia)
-  * [WebVR India - wiki page](https://wiki.mozilla.org/India/WebVR/)
+  * [WebVR India - Wiki page](https://wiki.mozilla.org/India/WebVR/)
   * [WebVR India - Slack channel](https://aframevr.slack.com/archives/india)
 
 ## Useful links
-  * [aframe.io](https://aframe.io)
-  * [Aframe - Github Organisation](https://github.com/aframevr)
+  * [AFrame Website](https://aframe.io)
+  * [AFrame - Github Organisation](https://github.com/aframevr)
   * [Mozilla VR Telegram Channel](https://telegram.me/MozillaVR)
   * [Aframe - Slack Channel](https://aframevr.slack.com)
   * Follow [a-frame](https://twitter.com/aframevr) on Twitter
