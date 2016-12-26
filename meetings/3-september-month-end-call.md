@@ -1,4 +1,4 @@
-## Mid Monthly September Call 2016
+## WebVR India Montly Call : September Second Call 2016 (Online)
 
 ### Attendees
   1. Srushtika Neelakantam | <n.srushtika@gmail.com>
@@ -28,9 +28,3 @@
   * T-Shirt design needed for MozVR
   * https://reps.mozilla.org/e/vr-hyderabad/
   * Interesting links to share - http://venturebeat.com/2016/09/17/how-webvr-will-make-virtual-reality-massively-available/
-
-
-
-
-
-
