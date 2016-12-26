@@ -1,15 +1,18 @@
-##  WebVR - Focus Team pitch (27 Aug, 2016)
+##  WebVR - Focus Team Pitch [Mozilla India Meetup, Pune | 27 Aug, 2016]
 
 ### Members
-  1. Ram <vaishnav.rd@gmail.com>
-  2. Lavish Aggarwal <lucky.lavish@gmail.com>
-  3. Osho Parth <oshoparth@gmail.com>
-  4. Srushtika Neelakantam <n.srushtika@gmail.com>
-  5. Kritika Maheshwari <kritika.thakur81@gmail.com>
-  6. Shadab <shadab.entrepreneur@outlook.com
-  7. Parag <parag7.iitr@gmail.com>
-  8. Survesh <123survesh@gmail.com>
-  
+  1. Ram
+  2. Lavish Aggarwal
+  3. Osho Parth
+  4. Srushtika Neelakantam
+  5. Kritika Maheshwari
+  6. Shadab
+  7. Parag
+  8. Survesh
+
+### Discussions
+This was the first meeting of the newly formed WebVR India group. We just discussed about ToDo operations/activities as the group, goals, objectives etc. Following are the outcomes of the discussions.
+
 ### Operational Specifications
   * Make an organization on github (named as webvr-india) [ http://github.com/webvr-india ]
   * Interactive teaching kits for onboarding new members
@@ -29,6 +32,3 @@
 ### Objective
   * Active WebVR contributors across India, evangelising.
   * To merge successfully with the "Future Technologies" Functional group.
-
-
-
