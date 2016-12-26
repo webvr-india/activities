@@ -1,4 +1,4 @@
-## September Monthly Call ( Sept 08, 2016 )
+## September Monthly Call (Online | Sept 08, 2016)
 
 ### Attendees
   Name <emailid@domain.com> @twitterhandle
@@ -46,6 +46,3 @@
   * Facebook group (to get more people on telegram) - https://www.facebook.com/groups/webvr/
   
   Tushar's blogpost about this meeting - Tushar's blog post - https://curiousbrickinthewall.wordpress.com/2016/09/07/grow-webvr-india-monthly-call-september/
-
-
-
