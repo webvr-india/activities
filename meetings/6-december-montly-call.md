@@ -5,7 +5,7 @@
 * Tushar Arora
 * Mukesh Pathak
 * Kamlesh
-* Shabaz
+* Shahbaz
 
 ### Notes:
 * Merry Christmas & Happy new year in advance :christmas_tree: :santa: :star2: :gift: :star: :dizzy: :gift: :confetti_ball:
