@@ -6,7 +6,7 @@ Try out this basic scene made using the A-Frame VR. Simply copy the following co
 <head>
 	<meta charset="UTF-8">
 	<title>Hello world! - A-frame</title>
-	<script src="https://aframe.io/releases/0.3.2/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
 </head>
 <body>
 	<a-scene>
@@ -20,21 +20,21 @@ Try out this basic scene made using the A-Frame VR. Simply copy the following co
 </html>
 ```
 ## Learning A-frame
-1. [Introduction](https://aframe.io/docs/0.3.0/introduction/)
-2. [What is a scene ?](https://aframe.io/docs/0.3.0/core/scene.html)
+1. [Introduction](https://aframe.io/docs/0.7.0/introduction/)
+2. [What is a scene ?](https://aframe.io/docs/0.7.0/core/scene.html)
 3. Components ( basic one's to understand )
-  1. [position](https://aframe.io/docs/0.3.0/components/position.html)
-  2. [rotation](https://aframe.io/docs/0.3.0/components/rotation.html)
-  3. [scale](https://aframe.io/docs/0.3.0/components/scale.html)
-  4. [more..](https://aframe.io/docs/0.3.0/core/component.html)
-4. What are [assets](https://aframe.io/docs/0.3.0/core/asset-management-system.html)?
+  1. [position](https://aframe.io/docs/0.7.0/components/position.html)
+  2. [rotation](https://aframe.io/docs/0.7.0/components/rotation.html)
+  3. [scale](https://aframe.io/docs/0.7.0/components/scale.html)
+  4. [more..](https://aframe.io/docs/0.7.0/core/component.html)
+4. What are [assets](https://aframe.io/docs/0.7.0/core/asset-management-system.html)?
 5. Primitive tags
-  1. [`<a-box>`](https://aframe.io/docs/0.3.0/primitives/a-box.html)
-  2. [`<a-circle>`](https://aframe.io/docs/0.3.0/primitives/a-circle.html)
-  3. [`<a-ring>`](https://aframe.io/docs/0.3.0/primitives/a-ring.html)
-  4. [`<a-sky>`](https://aframe.io/docs/0.3.0/primitives/a-sky.html)
-  5. [more...](https://aframe.io/docs/0.3.0/primitives)
-6. [Animations](https://aframe.io/docs/0.3.0/core/animations.html)
+  1. [`<a-box>`](https://aframe.io/docs/0.7.0/primitives/a-box.html)
+  2. [`<a-circle>`](https://aframe.io/docs/0.7.0/primitives/a-circle.html)
+  3. [`<a-ring>`](https://aframe.io/docs/0.7.0/primitives/a-ring.html)
+  4. [`<a-sky>`](https://aframe.io/docs/0.7.0/primitives/a-sky.html)
+  5. [more...](https://aframe.io/docs/0.7.0/primitives)
+6. [Animations](https://aframe.io/docs/0.7.0/core/animations.html)
 
 ## Have you contributed (blog,events and media footprint) to the A-Frame VR/ WebVR? Report it on our Github [issue](https://github.com/webvr-india/volunteer-contributions/issues)
    How to report your contributions?
