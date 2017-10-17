@@ -1,4 +1,4 @@
-## WebVR India Montly Call : September Second Call 2016 (Online)
+## WebVR India Monthly Call : September Second Call 2016 (Online)
 
 ### Attendees
   1. Srushtika Neelakantam | <n.srushtika@gmail.com>
