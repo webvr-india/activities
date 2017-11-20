@@ -10,15 +10,15 @@ Attendee Full Name |Twitter Handle | Place
 6. Md Shahbaz Alam | @mdsbzalam | Ranchi
 7. Ram GuruMukhi | | Hyderabad 
 8. Harsh Sharma | @HarshSh05339652 | Bhopal Madhya Pradesh
-9.Robin Koshy| @007Robinkoshy | Bhopal
-10.Tushar Arora | @TushkiSpeaks  | Delhi
+9. Robin Koshy| @007Robinkoshy | Bhopal
+10. Tushar Arora | @TushkiSpeaks  | Delhi
 
 ### AGENDA
-1.Annual webvr India meetup planning is on with Haiyya
-2.WebVR monthly call on future events and what could be done for betterment of the community, discussion and plan strategies for WebVR India community.
-3.Upcoming Haiyya events
-4.Upcoming future events about interactive hackathons and events focussed on A-Frame development.
-5.Requirement for more interactive sources about learning and getting started with A-Frame development.
+1. Annual webvr India meetup planning is on with Haiyya
+2. WebVR monthly call on future events and what could be done for betterment of the community, discussion and plan strategies for WebVR India community.
+3. Upcoming Haiyya events
+4. Upcoming future events about interactive hackathons and events focussed on A-Frame development.
+5. Requirement for more interactive sources about learning and getting started with A-Frame development.
 
 #### Questions/ Queries/ Suggestions/ Feedback
 
